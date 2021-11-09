@@ -1,0 +1,5 @@
+.idea/
+db.sqllite3
+__pycache__/
+.env/
+.env
